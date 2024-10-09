@@ -1,0 +1,63 @@
+[
+  {
+    "transactionDate":"11/Aug/2023",
+    "type":"direct debit",
+    "vendor": "PureGym",
+    "amount":"25.20",
+    "category": "MyMonthlyDD"
+  },
+  {
+    "transactionDate":"23/Oct/2023",
+    "type":"internet",
+    "vendor": "McMillan",
+    "amount":"10.56",
+    "category": "Utility"
+  },
+  {
+  "transactionDate":"01/Nov/2023",
+  "type":"card",
+  "vendor": "Morrisons",
+  "amount":"10.00",
+  "category": "Groceries"
+  },
+  {
+    "transactionDate":"10/Nov/2023",
+    "type":"card",
+    "vendor": "M&S",
+    "amount":"15.20",
+    "category": "Groceries"
+  },
+  {
+    "transactionDate":"20/Jan/2024",
+    "type":"direct debit",
+    "vendor": "CYBG",
+    "amount":"15.20",
+    "category": "MyMonthlyDD"
+  },
+  {
+    "transactionDate":"11/Mar/2024",
+    "type":"direct debit",
+    "vendor": "PureGym",
+    "amount":"25.20",
+    "category": "MyMonthlyDD"
+  },
+  {
+    "transactionDate":"23/Jun/2024",
+    "type":"internet",
+    "vendor": "McMillan",
+    "amount":"10.99"
+  },
+  {
+    "transactionDate":"10/Jul/2024",
+    "type":"card",
+    "vendor": "M&S",
+    "amount":"11.20",
+    "category": "Groceries"
+  },
+  {
+    "transactionDate":"10/Aug/2024",
+    "type":"internet",
+    "vendor": "Boots",
+    "amount":"12.20"
+  }
+]
